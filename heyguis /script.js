@@ -1,0 +1,2 @@
+function addannimal(name, country){
+}
